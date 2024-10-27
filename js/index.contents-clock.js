@@ -1,4 +1,4 @@
-const clockContainer = document.querySelector(".aboutus__clock");
+const clockContainer = document.querySelector(".contents__clock");
 
 function updateClock() {
 clockContainer.innerText = new Date().toLocaleTimeString('uk');

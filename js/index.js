@@ -1,7 +1,8 @@
 function init() {
-    import("./index.aboutus-text.js");
-    import("./index.aboutus-clock.js");
-    import("./index.aboutus.js");
+    import("./index.contents-text.js");
+    import("./index.contents-clock.js");
+    import("./index.statistics.js");
+    
 }
 
 const totalPartials = document.querySelectorAll('[hx-trigger="load"], [data-hx-trigger="load"]').length;

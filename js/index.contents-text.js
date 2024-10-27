@@ -1,4 +1,4 @@
-const aboutusText = document.querySelector(".aboutus__title");
+const aboutusText = document.querySelector(".contents__title");
 
 const greetings = [
     'Hello, JS',

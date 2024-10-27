@@ -39,4 +39,3 @@ function renderAboutus(statistics) {
 
 renderAboutus(statistics);
 
-const = 

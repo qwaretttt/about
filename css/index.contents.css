@@ -24,8 +24,7 @@ img {
     width: 100%;
 }
 
-.contents__list--left,
-.contents__list--right {
+.contents {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -125,8 +124,7 @@ img {
 }
 
 @media (max-width: 768px) {
-    .contents__list--left, 
-    .contents__list--right {
+    .contents {
         flex-direction: column;
         text-align: left;
     }

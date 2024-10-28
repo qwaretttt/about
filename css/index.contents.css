@@ -24,6 +24,13 @@ img {
     width: 100%;
 }
 
+.container__about-us {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: var(--background-color);
+}
+
 .contents {
     display: flex;
     flex-wrap: wrap;

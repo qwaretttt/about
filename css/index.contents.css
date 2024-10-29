@@ -27,7 +27,7 @@ img {
 .container__about-us {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    max-width: 1200px;
     background-color: var(--background-color);
 }
 
@@ -36,7 +36,6 @@ img {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background-color: var(--background-color);
     padding: 40px 0;
 }
 
